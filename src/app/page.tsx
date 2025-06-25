@@ -12,7 +12,7 @@ export default function Home() {
 
       <div className="m-5 space-y-2">
         <p className="text-4xl font-semibold text-gray-800">Reva University</p>
-        <p className="text-2xl text-gray-600">B.Tech in Artificial Intelligence & Machine Learning</p>
+        <p className="text-2xl text-gray-600">B.Tech in Artificial Intelligence & Machine Learning(2024)</p>
       </div>
 
       <div className="flex flex-col md:flex-row gap-6 px-5">
