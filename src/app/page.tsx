@@ -45,7 +45,7 @@ export default function Home() {
         <a href="https://www.linkedin.com/in/manoj-kumar-software-developer" target="_blank">
           <Image src="/Images/icons8-linkedin-24.png" alt="LinkedIn" width={40} height={40} className="transition-transform hover:scale-125 shadow-md rounded" />
         </a>
-        <a href="#" target="_blank">
+        <a href="https://leetcode.com/u/itsmanojkumar04" target="_blank">
           <Image src="/Images/icons8-leetcode-24.png" alt="Leetcode" width={40} height={40} className="transition-transform hover:scale-125" />
         </a>
         <a href="https://github.com/itsmanojkumar" target="_blank">
